@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "js-string-escape": "^1.0.0",
-    "broccoli-filter": "^0.1.6",
+    "broccoli-filter": "rwjblue/broccoli-filter#symlinking",
     "ember-template-compiler": "1.6.1"
   },
   "devDependencies": {
